@@ -21,6 +21,7 @@ while (a != "Quit") and (a != "quit") and (a != "q"):
 
 
 
+# FIRST ATTEMPT:    
 #reversed_string = []
 #string_input = input('')
 #
